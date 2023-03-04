@@ -8,5 +8,9 @@ class FirstClass {
         } else{
             System.out.println("Not Adult");
         }       
-    }
+    } 
+          public void m2() 
+    {   
+          // code1
+}
 }
